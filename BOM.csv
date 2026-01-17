@@ -5,4 +5,7 @@ Raspberry Pi 4 Model B (4GB),1,10800.00,88.19,Main processing unit for AI
 Micro HDMI to HDMI Cable,1,370.00,3.02,External display support for debugging
 Raspberry Pi 4 Power Adapter (5V 3A),1,560.00,4.57,Stable 15W power supply
 USB Microphone,1,850,6.94,Speech input
-TOTAL,13995,120
+TOTAL,13995,114.30
+
+
+Keeping in mind the fluctuating exchange rates, I am requesting **$120** to cover the components listed in `BOM.csv`. This will allow me to transition from a web simulation to a physical, life-changing tool.
